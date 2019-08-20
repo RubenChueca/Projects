@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+table#btns{
+    margin: auto;
+    margin-top: 5%;
+}
+
+button#begin{
+    margin-top: 5%;
+}
